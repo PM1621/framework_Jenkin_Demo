@@ -8,18 +8,14 @@ public class CreateContactTest {
 	
 	@Test
 	public static void createContact()
-	{  WebDriver driver;
+	{ 
 		String url=System.getProperty("url");
 		String browser=System.getProperty("browser");
 		String username=System.getProperty("username");
 		String password=System.getProperty("password");
 		
-		
-			 
-				driver=new ChromeDriver();
-		
-		
-		driver.get(url);
+		//hello
+		//hi
 		System.out.println(url);
 		System.out.println(browser);
 		System.out.println(username);
