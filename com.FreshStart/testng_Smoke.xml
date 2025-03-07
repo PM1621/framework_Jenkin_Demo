@@ -9,7 +9,7 @@
 </groups>
   <test  name="Test">
     <classes>
-      <class name="Org.CreateOrgTest"/>
+      <class name="Org.CreateContactTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
